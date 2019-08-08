@@ -1,0 +1,6 @@
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\bin\Debug\netcoreapp1.1\Codejam.deps.json
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\bin\Debug\netcoreapp1.1\Codejam.runtimeconfig.json
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\bin\Debug\netcoreapp1.1\Codejam.runtimeconfig.dev.json
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\obj\Debug\netcoreapp1.1\Codejam.csprojResolveAssemblyReference.cache
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\obj\Debug\netcoreapp1.1\Codejam.csproj.CoreCompileInputs.cache
+C:\Users\cchowdhary\Documents\C#\Codejam\Codejam\obj\Debug\netcoreapp1.1\Codejam.AssemblyInfo.cs
